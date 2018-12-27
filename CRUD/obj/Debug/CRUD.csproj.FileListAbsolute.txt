@@ -1,0 +1,15 @@
+C:\Users\Denieall\source\repos\CRUD\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\Denieall\source\repos\CRUD\CRUD\bin\Debug\CRUD.exe
+C:\Users\Denieall\source\repos\CRUD\CRUD\bin\Debug\CRUD.pdb
+C:\Users\Denieall\source\repos\CRUD\CRUD\obj\Debug\CRUD.csprojAssemblyReference.cache
+C:\Users\Denieall\source\repos\CRUD\CRUD\obj\Debug\MainWindow.g.cs
+C:\Users\Denieall\source\repos\CRUD\CRUD\obj\Debug\App.g.cs
+C:\Users\Denieall\source\repos\CRUD\CRUD\obj\Debug\CRUD_MarkupCompile.cache
+C:\Users\Denieall\source\repos\CRUD\CRUD\obj\Debug\CRUD_MarkupCompile.lref
+C:\Users\Denieall\source\repos\CRUD\CRUD\obj\Debug\MainWindow.baml
+C:\Users\Denieall\source\repos\CRUD\CRUD\obj\Debug\CRUD.g.resources
+C:\Users\Denieall\source\repos\CRUD\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+C:\Users\Denieall\source\repos\CRUD\CRUD\obj\Debug\CRUD.csproj.GenerateResource.cache
+C:\Users\Denieall\source\repos\CRUD\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\Denieall\source\repos\CRUD\CRUD\obj\Debug\CRUD.exe
+C:\Users\Denieall\source\repos\CRUD\CRUD\obj\Debug\CRUD.pdb
